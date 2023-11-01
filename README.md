@@ -2,6 +2,7 @@
 👨‍⚖️O POSTGRESQL É UM SISTEMA DE GERENCIAMENTO DE BANCO DE DADOS RELACIONAL DE CÓDIGO ABERTO. ELE OFERECE RECURSOS AVANÇADOS DE ARMAZENAMENTO E RECUPERAÇÃO DE DADOS.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=POSTGRESQL)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://www.postgresql.org/docs/)
 <br>
 
