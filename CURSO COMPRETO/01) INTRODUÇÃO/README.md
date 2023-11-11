@@ -1,5 +1,4 @@
 # INTRODUÇÃO:
-Claro, vou lhe fornecer uma introdução ao PostgreSQL, incluindo uma visão geral, instalação e alguns conceitos iniciais.
 
 **Visão Geral do PostgreSQL:**
 
