@@ -44,4 +44,3 @@ A instalação do PostgreSQL pode variar dependendo do sistema operacional que v
 
 - **psql:** É uma ferramenta de linha de comando que permite interagir diretamente com o PostgreSQL.
 
-Esta é apenas uma introdução ao PostgreSQL. Se você tiver perguntas mais específicas ou precisar de informações detalhadas sobre como criar tabelas, inserir dados, realizar consultas e administrar o PostgreSQL, sinta-se à vontade para perguntar.
