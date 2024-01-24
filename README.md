@@ -2,15 +2,8 @@
 👨‍⚖️O POSTGRESQL É UM SISTEMA DE GERENCIAMENTO DE BANCO DE DADOS RELACIONAL DE CÓDIGO ABERTO. ELE OFERECE RECURSOS AVANÇADOS DE ARMAZENAMENTO E RECUPERAÇÃO DE DADOS.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=POSTGRESQL)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://www.postgresql.org/docs/)
-<br>
-
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLucm8g_ezqNoAkYKXN_zWupyH6hQCAwxY&si=9tzrbjfNZ0aZU-a-)
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # 💝CONCEITO:
 O PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto, altamente flexível e poderoso. Ele é amplamente usado para desenvolvimento de aplicativos, análise de dados e várias outras tarefas de gerenciamento de informações. O PostgreSQL oferece suporte a recursos avançados, como transações ACID (Atomicidade, Consistência, Isolamento e Durabilidade), chaves estrangeiras, disparadores, procedimentos armazenados, funções definidas pelo usuário e uma linguagem de consulta SQL robusta.
