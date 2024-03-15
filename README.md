@@ -46,4 +46,6 @@ O PostgreSQL é distribuído sob a licença PostgreSQL, uma licença de software
 - [CURSO CRIADO PELO "BÓSON TREINAMENTOS"](https://youtube.com/playlist?list=PLucm8g_ezqNoAkYKXN_zWupyH6hQCAwxY&si=9tzrbjfNZ0aZU-a-)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://www.postgresql.org/docs/)
+- [VEJA O MANUAL](./MANUAL.md)
 - [VEJA A SINTAXE](./SINTAXE.md)
+- [VEJA OS COMANDOS](./COMANDOS.md)
