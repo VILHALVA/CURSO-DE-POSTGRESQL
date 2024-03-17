@@ -1,5 +1,4 @@
 # INTRODUÇÃO:
-
 **Visão Geral do PostgreSQL:**
 
 O PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto (RDBMS) amplamente utilizado em todo o mundo. Ele se destaca por sua confiabilidade, escalabilidade e capacidade de gerenciar grandes volumes de dados. O PostgreSQL oferece suporte a recursos avançados, como transações ACID (Atomicidade, Consistência, Isolamento e Durabilidade), chaves estrangeiras, procedimentos armazenados, funções definidas pelo usuário e muito mais.
