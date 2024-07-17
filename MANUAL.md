@@ -1,8 +1,8 @@
-# POSTGRESQL - MANUAL
+# MANUAL
 ## COMO INSTALAR O POSTGRESQL?
 Aqui estão os passos básicos para instalar o PostgreSQL em um sistema Linux (especificamente Ubuntu) e Windows:
 
-### Ubuntu:
+### LINUX/UBUNTU:
 1. **Atualize os Repositórios**:
    Abra o terminal e execute os seguintes comandos:
    ```
@@ -28,7 +28,7 @@ Aqui estão os passos básicos para instalar o PostgreSQL em um sistema Linux (e
    sudo -u postgres psql
    ```
 
-### Windows:
+### WINDOWS:
 1. **Baixe o Instalador**:
    Acesse o site oficial do [PostgreSQL](https://www.postgresql.org/download/) e baixe o instalador para Windows.
 
